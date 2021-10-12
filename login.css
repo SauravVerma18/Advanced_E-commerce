@@ -1,0 +1,70 @@
+body{
+	background: url("images/login.jpg");
+	
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+footer {
+	position: fixed;
+	padding: 10px 0;
+	text-align: center;
+	bottom: 0;
+	background-color: #101010;
+	color: #9d9d9d;
+	width: 100%;
+}
+.panel{
+	margin-top: 113px;
+}
+.panel-margin {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.text-centre {
+	text-align: center;
+}
+.navbar-inverse .navbar-brand {
+    color: #ec0832;
+    font-size: 30px;
+    font-family: auto;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 14px 5px;
+    line-height: 20px;
+}
+.navbar-inverse .navbar-nav li a {
+    color: #bf8110;
+    font-size: 17px;
+}
+p {
+    margin: 0 0 10px;
+    font-family: cursive;
+    color: burlywood;
+}
+.h1, h1 {
+    font-size: 36px;
+    font-family: cursive;
+    color: #e0f349;
+}
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 22px;
+    text-align: center;
+    font-family: cursive;
+    color: darkblue;
+}
+.panel-default .panel-heading {
+    color: #333;
+    background-color: #d7d0ea;
+    border-color: #ddd;
+}
+.panel-footer {
+    padding: 10px 15px;
+     background-color: #d7d0ea;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
